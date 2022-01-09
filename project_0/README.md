@@ -6,7 +6,8 @@
 [3. Краткая информация о данных](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Результат)    
-[6. Выводы](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Выводы) 
+[6. Выводы](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Выводы)
+[7. Воспроизводимость](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Воспроизводимость)
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -53,5 +54,19 @@
 ....
 
 :arrow_up:[к оглавлению](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Оглавление)
+
+### Воспроизводимость:  
+Использованная конфигурция окружения:
+
+ *Через pip:*
+
+pip install -r [requirements.txt](https://github.com/FrodoSumkinss/SF/blob/main/project_0/requirements.txt)
+
+ *Через conda:*
+
+conda env create -f [environment.yaml](https://github.com/FrodoSumkinss/SF/blob/main/project_0/environment.yaml)
+
+:arrow_up:[к оглавлению](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Оглавление)
+
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
