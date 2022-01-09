@@ -37,3 +37,9 @@
 - В качестве ответа принимается среднее количество попыток за 1000 угадываний.
 
  :arrow_up:[К оглавлению](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Оглавление)
+
+ #### *Используемое окружение*
+
+ pip install -r requirements.txt (https://github.com/FrodoSumkinss/SF/blob/main/requirements.txt)
+
+  conda env create -f environment.yaml (https://github.com/FrodoSumkinss/SF/blob/main/environment.yaml)
