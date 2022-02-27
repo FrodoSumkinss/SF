@@ -33,9 +33,12 @@
 
 ### Краткая информация о данных
 База данных о резюме соискателей  за период  с 29.12.2017 по 05.12.2019
-База данных о курсах валют для конвертации за период  с 29.12.2017 по 05.12.2019
+ https://drive.google.com/file/d/1jqEQc_cNR8jE5fJHIqEXo_8GfztjovGK/view?usp=sharing
 
-:arrow_up:[к оглавлению](https://github.com/FrodoSumkinss/SF/blob/main/project_0/README.md#Оглавление)
+База данных о курсах валют для конвертации за период  с 29.12.2017 по 05.12.2019
+https://github.com/FrodoSumkinss/SF/blob/main/project_1/data/ExchangeRates.csv
+
+:arrow_up:[к оглавлению](https://github.com/FrodoSumkinss/SF/blob/main/project_1/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
