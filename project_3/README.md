@@ -32,9 +32,9 @@
 ### Краткая информация о данных
 
 Данные для соревнования
-hotels_train.csv - набор данных для обучения
-hotels_test.csv - набор данных для оценки качества
-submission.csv - файл сабмишна в нужном формате
+hotels_train.csv - набор данных для обучения (ссылка для скачивания: https://drive.google.com/file/d/19pSXLj2gpJ_JoPmKsl84XIoO9A9DlH7I/view?usp=sharing)
+hotels_test.csv - набор данных для оценки качества (ссылка для скачивания: https://drive.google.com/file/d/19waIsFkyCpBDsqSPlwVxPRBKLF_A2S_c/view?usp=sharing)
+submission.csv - файл сабмишна в нужном формате (ссылка для скачивания: https://drive.google.com/file/d/19oXE7IKCrBbLsNHBfVnBeXdNCToNAOU7/view?usp=sharing)
 
 Признаки
 hotel_address - адрес отеля
